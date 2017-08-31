@@ -27,6 +27,8 @@
 // -------------------------------------------------------------
 //Variáveis Globais
 
+float   nivel_agua;
+float   altura_caixa;
 //--------------------------------------------------------------
 
 void  inic_lcd();           // Carrega as configurações do LCD e mostra as mensagens iniciais de apresentação
